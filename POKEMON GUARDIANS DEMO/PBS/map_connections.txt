@@ -1,0 +1,20 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Test Route 2 (82) - Test town 3 (83)
+82,West,0,83,East,7
+# Desert (33) - Test Route 2 (82)
+33,West,9,82,East,0
+# Player's house (32) - Desert (33)
+32,West,0,33,East,218
+# Test Town 2 (79) - Desert (33)
+79,West,0,33,East,16
+# Start Town G (77) - Player's house (32)
+77,West,165,32,East,0
+# Start route 1 (78) - Player's house (32)
+78,West,225,32,East,0
+# Start route 1 (78) - Start Town G (77)
+78,South,0,77,North,0
+# Test Town 2 (79) - Start Town G (77)
+79,East,37,77,West,0
+# Test Town 2 (79) - Start route 1 (78)
+79,East,0,78,West,23

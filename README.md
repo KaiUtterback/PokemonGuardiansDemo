@@ -40,7 +40,7 @@ You start your journey in Silverstream Town with your best friend, Alex. As you 
 
 ## Changelog
 
-### Version 1.04
+### Version 0.04
 
 - **New Areas Added**: Explore the mysterious **Deep Woods** and the bustling **Aurora Marketplace**.
 - **New Pokémon**: Encounter and catch new Pokémon in the updated areas.

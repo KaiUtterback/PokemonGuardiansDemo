@@ -1,0 +1,24 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Player's house (32) - Route 1 (78)
+32,East,0,78,West,225
+# Verdantia Town (79) - Route 1 (78)
+79,East,0,78,West,23
+# Fernwood Town (77) - Route 1 (78)
+77,North,0,78,South,0
+# Deep Woods (88) - Route 1 (78)
+88,South,0,78,North,16
+# Desert (33) - Player's house (32)
+33,East,218,32,West,0
+# Fernwood Town (77) - Player's house (32)
+77,West,165,32,East,0
+# Route 2 (82) - Desert (33)
+82,East,0,33,West,9
+# Verdantia Town (79) - Desert (33)
+79,West,0,33,East,16
+# Emberly City (83) - Route 2 (82)
+83,East,7,82,West,0
+# Route 1 (78) - Aurora Market (87)
+78,0,67,87,177,0
+# Fernwood Town (77) - Verdantia Town (79)
+77,West,0,79,East,37

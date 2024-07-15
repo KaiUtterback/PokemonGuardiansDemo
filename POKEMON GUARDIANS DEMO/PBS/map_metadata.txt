@@ -1,0 +1,44 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[033]   # Desert
+Name = Desert
+Outdoor = true
+Weather = Sandstorm,100
+Environment = Sand
+#-------------------------------
+[077]   # Fernwood Town
+Name = Start Town G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[078]   # Route 1
+Name = Start route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[079]   # Verdantia Town
+Name = Test Town 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 79,42,10
+MapPosition = 1,5,13
+#-------------------------------
+[082]   # Route 2
+Name = Test Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[083]   # Emberly City
+Name = Test town 3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[087]   # Aurora Market
+Name = Aurora Market
+Outdoor = true
+Bicycle = true

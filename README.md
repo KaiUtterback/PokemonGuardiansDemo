@@ -53,7 +53,7 @@ You start your journey in Silverstream Town with your best friend, Alex. As you 
 
 ## Installation
 
-1. Download the game from the [release page](https://github.com/yourusername/pokemon-guardians/releases/latest).
+1. Download the game from the [release page](https://github.com/KaiUtterback/PokemonGuardiansDemo/releases/tag/v0.04).
 2. Extract the downloaded ZIP file to your desired location.
 3. Run `Game.exe` to start playing:
    - On Windows: Double-click `Game.exe`.
